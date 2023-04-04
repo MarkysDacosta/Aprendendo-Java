@@ -3,7 +3,7 @@ import java.util.Scanner;
 	public class escola {
 	
 
-	    import java.util.Scanner;
+	    
 
 	 
 		public static void main(String[] args) {
@@ -41,10 +41,7 @@ import java.util.Scanner;
 				saladeaula2 = 102;
 				break;
 	        
-			
-			
-			
-			default:
+			     default:
 				break;
 			}
 			System.out.println("essa e a sala  "+ saladeaula2+"\n");
