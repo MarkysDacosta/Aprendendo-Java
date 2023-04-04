@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author guill
- *
- */
-module sintaxesvariaveisefluxo {
-}
